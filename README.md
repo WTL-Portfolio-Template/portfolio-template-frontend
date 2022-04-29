@@ -1,4 +1,4 @@
-# This repository contains the source code to my [Portfolio Website](http://rohinbhat.me/).
+# This repository contains the source code to a [Portfolio Website Template](#).
 
 Feel free to clone this repository to use it as a template for **your own Portfolio**.
 
@@ -6,7 +6,7 @@ To make your own portfolio website follow the instructions below:
 
 - :package: **Ensure** you have **npm** and **git** installed on your computer.
 - :computer: **Clone** this repository to your computer using `git clone https://github.com/RohinBhat/portfolio.git`
-- :wrench: **Modify** the [**data**](https://github.com/RohinBhat/portfolio/tree/master/src/data) folder to contain the information you want to display on your website.
+- :wrench: **Modify** the **data** folder to contain the information you want to display on your website.
 - :hammer: **Build** the website using `npm run build`
 - :rocket: **Deploy** the website using a service of your choice.
 
