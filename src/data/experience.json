@@ -1,0 +1,32 @@
+[
+    {
+        "date": "JANUARY 2019 - JULY 2019",
+        "title": "CirroStratus Inc.",
+        "subtitle": "Software Engineering Intern",
+        "website": "https://cirrostratusgroup.com/",
+        "details": "Engineered modern applications with Java, JavaScript, SQL Server, and No SQL. Built innovative microservices and Web Services (incl. SOA/SOAP/REST/XML). Utilized Cloud Foundry for efficient building on top of Kubernetes. Efficiently deployed and integrated software engineered by team and updated integration/deployment scripts to improve continuous integration practices. Liaised with Product Managers to identify minimum viable product requirements and clearly defined feature sets into well-scoped user stories for individual team members.",
+        "techStack": [
+            "Java",
+            "JavaScript",
+            "SQL Server",
+            "NoSQL",
+            "Kubernetes",
+            "Cloud Foundry"
+        ]
+    },
+    {
+        "date": "AUGUST 2018 - NOVEMBER 2018",
+        "title": "Kellton Tech",
+        "subtitle": "Software Engineering Intern",
+        "website": "https://www.kelltontech.com/",
+        "details": "Supported Kell Tech's testing and engineering processes. Confirmed that completed software met client requirements. Completed maintenance on existing programs. Worked closely with product team on scope of future projects and innovations. Carried out continuous identification, measurement, and improvement of processes.",
+        "techStack": [
+            "Flutter",
+            "NodeJS",
+            "PostgreSQL",
+            "ExpressJS",
+            "AWS",
+            "Docker"
+        ]
+    }
+]
