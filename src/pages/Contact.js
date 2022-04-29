@@ -26,7 +26,10 @@ export default function Contact() {
 
   const sendMessage = async () => {
     await axios
-      .post("https://rohin-portfolio-api.herokuapp.com/messages", userData)
+      .post(
+        "https://wtl-portfolio-template-api.herokuapp.com/messages",
+        userData
+      )
       .then((res) => {
         toast.success("Message sent successfully");
       })
@@ -107,7 +110,7 @@ export default function Contact() {
     const isValid = validate();
     if (isValid) {
       sendMessage({
-        url: "https://rohin-portfolio-api.herokuapp.com/messages",
+        url: "https://wtl-portfolio-template-api.herokuapp.com/messages",
         method: "POST",
         data: userData,
       });
